@@ -1,4 +1,4 @@
-**Sai Srikar - Data Analyst Portfolio**
+**Sai Srikar Goranta - Data Analyst Portfolio**
 
 * Aspiring Data Analyst with hands on experience in SQL Python Tableau and Power BI
 * Skilled in data cleaning analysis and building interactive dashboards using real world data
@@ -12,3 +12,4 @@
 
 * LinkedIn:
   https://www.linkedin.com/in/saisrikar0207
+
